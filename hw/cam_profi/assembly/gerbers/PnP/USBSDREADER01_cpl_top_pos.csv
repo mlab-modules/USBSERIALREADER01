@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","3.3V","Straight_2x03",70.1800,43.5000,90.0000,top
+"J2","USB_B","USB_B_Lumberg_2411_02_Horizontal",21.0000,29.2300,180.0000,top
+"J3","USB_A","USB_A_CONNFLY_DS1095-WNR0",62.6725,26.9800,90.0000,top
+"J4","VBUS","Straight_2x03",10.8400,19.2800,-90.0000,top
+"J5","HEADER_2x07_PARALLEL","PinHeader_2x07_P2.54mm_Vertical",35.7700,13.3650,-90.0000,top
+"J6","HEADER_2x05_PARALLEL","PinHeader_2x05_P2.54mm_Vertical",63.5000,8.3000,180.0000,top
+"J7","HEADER_2x04_PARALLEL","PinHeader_2x06_P2.54mm_Vertical",40.8500,10.8250,90.0000,top
+"J8","HEADER_1x02","PinHeader_1x03_P2.54mm_Vertical",40.8500,8.2850,90.0000,top
+"J9","SD_Card-FPS009-4200-0","FPS009-4200-0",42.1758,55.3000,90.0000,top
+"J10","HEADER_1x02","PinHeader_1x02_P2.54mm_Vertical",24.6125,29.2050,180.0000,top
+"J11","HEADER_1x02","PinHeader_1x02_P2.54mm_Vertical",59.2000,31.7550,0.0000,top
+"M1","HOLE M3","MountingHole_3mm",10.1600,50.8000,0.0000,top
+"M2","HOLE M3","MountingHole_3mm",71.1200,50.8000,0.0000,top
+"M3","HOLE","MountingHole_3mm",10.1600,10.1600,0.0000,top
+"M4","HOLE","MountingHole_3mm",71.1200,10.1600,0.0000,top
