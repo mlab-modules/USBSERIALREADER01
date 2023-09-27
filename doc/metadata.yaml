@@ -4,9 +4,18 @@ github_description: null
 github_repo: USBSDREADER01
 github_url: https://github.com/mlab-modules/USBSDREADER01
 homepage: false
-images: []
+images:
+- doc/gen/img/USBSDREADER01-bottom.png
+- doc/gen/img/USBSDREADER01-top.png
+- doc/gen/USBSDREADER01-schematic.svg
+- doc/gen/img/USBSDREADER01-bottom.svg
+- doc/gen/img/USBSDREADER01-top.svg
+- hw/cam_profi/assembly/USBSDREADER01-assembly_page_02.svg
+- hw/cam_profi/assembly/USBSDREADER01-assembly_page_01.svg
 mark: 50
+mod_ibom: hw/cam_profi/USBSDREADER01-ibom.html
+mod_scheme: doc/gen/USBSDREADER01-schematic.pdf
 status: 0
 tags: []
 title: USBSDREADER01
-updated: '2023-09-27T06:55:42.404391+00:00'
+updated: '2023-09-27T06:58:58.163264+00:00'
