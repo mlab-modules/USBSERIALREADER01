@@ -7,15 +7,15 @@ homepage: false
 images:
 - doc/gen/img/USBSDREADER01-bottom.png
 - doc/gen/img/USBSDREADER01-top.png
+- hw/cam_profi/assembly/USBSDREADER01-assembly_page_02.svg
+- hw/cam_profi/assembly/USBSDREADER01-assembly_page_01.svg
 - doc/gen/USBSDREADER01-schematic.svg
 - doc/gen/img/USBSDREADER01-bottom.svg
 - doc/gen/img/USBSDREADER01-top.svg
-- hw/cam_profi/assembly/USBSDREADER01-assembly_page_02.svg
-- hw/cam_profi/assembly/USBSDREADER01-assembly_page_01.svg
 mark: 50
 mod_ibom: hw/cam_profi/USBSDREADER01-ibom.html
 mod_scheme: doc/gen/USBSDREADER01-schematic.pdf
 status: 1
 tags: []
 title: USBSDREADER01
-updated: '2023-09-27T06:58:58.163264+00:00'
+updated: '2024-05-15T11:14:32.014672+00:00'
