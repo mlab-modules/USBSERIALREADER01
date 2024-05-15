@@ -15,7 +15,7 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/USBSDREADER01-ibom.html
 mod_scheme: doc/gen/USBSDREADER01-schematic.pdf
-status: 0
+status: 1
 tags: []
 title: USBSDREADER01
 updated: '2023-09-27T06:58:58.163264+00:00'
