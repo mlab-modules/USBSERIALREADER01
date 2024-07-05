@@ -5,11 +5,11 @@
   (paper "A4")
 
   (title_block
-    (title "NAME")
+    (title "USBSDREADER01A")
     (date "%d. %m. %Y")
     (rev "REV")
     (company "Mlab www.mlab.cz")
-    (comment 1 "Short description \\nTwo lines are maximum")
+    (comment 1 "USB to SD Card Reader\\nsupports USB 2.0 and SDHC cards.")
     (comment 2 "nickname <email@example.com>")
   )
 
