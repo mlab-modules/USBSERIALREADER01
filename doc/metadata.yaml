@@ -1,21 +1,28 @@
-description: null
+description: USB to SD Card Reader module featuring MAX14502AETL, supports USB 2.0
+  and SDHC cards.
 github_branch: USBSDREADER01
-github_description: null
+github_description: USB to SD Card Reader module featuring MAX14502AETL, supports
+  USB 2.0 and SDHC cards.
 github_repo: USBSDREADER01
 github_url: https://github.com/mlab-modules/USBSDREADER01
 homepage: false
 images:
-- doc/gen/img/USBSDREADER01-bottom.png
 - doc/gen/img/USBSDREADER01-top.png
-- hw/cam_profi/assembly/USBSDREADER01-assembly_page_02.svg
-- hw/cam_profi/assembly/USBSDREADER01-assembly_page_01.svg
+- doc/gen/img/USBSDREADER01-bottom.png
 - doc/gen/USBSDREADER01-schematic.svg
 - doc/gen/img/USBSDREADER01-bottom.svg
 - doc/gen/img/USBSDREADER01-top.svg
+- hw/cam_profi/assembly/USBSDREADER01-assembly_page_02.svg
+- hw/cam_profi/assembly/USBSDREADER01-assembly_page_01.svg
 mark: 50
 mod_ibom: hw/cam_profi/USBSDREADER01-ibom.html
 mod_scheme: doc/gen/USBSDREADER01-schematic.pdf
 status: 1
-tags: []
+tags:
+- mlab-module
+- sd-card
+- sdio-communications
+- spi
+- spi-communication
 title: USBSDREADER01
-updated: '2024-05-15T11:14:32.014672+00:00'
+updated: '2024-07-05T17:23:56.538830+00:00'
